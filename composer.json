@@ -1,7 +1,7 @@
 {
     "name": "ivqonsanada/enlightn",
     "description": "Fork of Enlightn - Your performance & security consultant, an artisan command away.",
-    "version": "2.11.1",
+    "version": "2.11.3",
     "type": "library",
     "keywords": [
         "laravel",
