@@ -1,10 +1,10 @@
 blank_issues_enabled: false
 contact_links:
   - name: ❓ Questions
-    url: https://github.com/enlightn/enlightn/discussions
+    url: https://github.com/ivqonsanada/enlightn/discussions
     about: The issuer tracker is focused on reporting bugs or problems. Please use the Discussions tabs for questions!
   - name: 📚 Documentation improvements
-    url: https://github.com/enlightn/enlightn-docs
+    url: https://github.com/ivqonsanada/enlightn-docs
     about: Our documentation is open-source, you can make a PR with your suggested changes over there.
   - name: Commercial Support
     url: https://www.laravel-enlightn.com/

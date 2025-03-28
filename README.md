@@ -1,9 +1,9 @@
 <h1 align="center">Enlightn</h1>
 
-![tests](https://github.com/enlightn/enlightn/workflows/tests/badge.svg?branch=master)
+![tests](https://github.com/ivqonsanada/enlightn/workflows/tests/badge.svg?branch=master)
 [![LGPLv3 Licensed](https://img.shields.io/badge/license-LGPLv3-brightgreen.svg?style=flat-square)](LICENSE.md)
-[![Latest Stable Version](https://poser.pugx.org/enlightn/enlightn/v/stable?format=flat-square)](https://packagist.org/packages/enlightn/enlightn)
-[![Total Downloads](https://img.shields.io/packagist/dt/enlightn/enlightn.svg?style=flat-square)](https://packagist.org/packages/enlightn/enlightn)
+[![Latest Stable Version](https://poser.pugx.org/ivqonsanada/enlightn/v/stable?format=flat-square)](https://packagist.org/packages/ivqonsanada/enlightn)
+[![Total Downloads](https://img.shields.io/packagist/dt/ivqonsanada/enlightn.svg?style=flat-square)](https://packagist.org/packages/ivqonsanada/enlightn)
 [![Twitter Follow](https://img.shields.io/twitter/follow/Enlightn_app?label=Follow&style=social)](https://twitter.com/Enlightn_app)
 
 
@@ -65,7 +65,7 @@ Note: The same compatibility matrix applies for Enlightn Pro versions.
 You may install Enlightn into your project using the Composer package manager:
 
 ```bash
-composer require enlightn/enlightn
+composer require ivqonsanada/enlightn
 ```
 
 After installing Enlightn, you may publish its assets using the vendor:publish Artisan command:
@@ -159,7 +159,7 @@ The web UI is free for all users and includes the following:
 2. All failed checks along with code snippets related to the checks (if any).
 3. Metrics on number of new and resolved issues (compared with the most recent report running on the same app URL, environment and project).
 
-To get access to the Web UI, all you need to do is signup for free on the Enlightn website and follow the instructions mentioned [here](https://www.laravel-enlightn.com/docs/getting-started/web-ui.html#how-to-get-access-free). 
+To get access to the Web UI, all you need to do is signup for free on the Enlightn website and follow the instructions mentioned [here](https://www.laravel-enlightn.com/docs/getting-started/web-ui.html#how-to-get-access-free).
 
 ## Scheduling Enlightn Runs
 

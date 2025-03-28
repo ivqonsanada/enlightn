@@ -1,7 +1,7 @@
 {
     "name": "ivqonsanada/enlightn",
     "description": "Fork of Enlightn - Your performance & security consultant, an artisan command away.",
-    "version": "2.11.3",
+    "version": "2.11.4",
     "type": "library",
     "keywords": [
         "laravel",
@@ -36,7 +36,7 @@
         }
     ],
     "support": {
-        "issues": "https://github.com/enlightn/enlightn/issues",
+        "issues": "https://github.com/ivqonsanada/enlightn/issues",
         "docs": "https://www.laravel-enlightn.com/docs/"
     },
     "require": {
